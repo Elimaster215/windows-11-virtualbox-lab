@@ -1,0 +1,10 @@
+# VirtualBox files
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+
+# OS/editor files
+Thumbs.db
+.DS_Store
